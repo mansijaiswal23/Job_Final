@@ -1,0 +1,6 @@
+
+project_id = "veynoptrpdbdcmpceacj"
+
+[functions.parse-resume]
+verify_jwt = false
+
